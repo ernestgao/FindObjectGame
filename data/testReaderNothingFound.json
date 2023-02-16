@@ -1,0 +1,22 @@
+{
+    "difficulty": "Easy",
+    "found": [],
+    "gameBoard": {"hidden": [
+        {
+            "objectY": 185,
+            "objectX": 5,
+            "title": "Hammer"
+        },
+        {
+            "objectY": 180,
+            "objectX": 90,
+            "title": "Shovel"
+        },
+        {
+            "objectY": 190,
+            "objectX": 170,
+            "title": "Phone"
+        }
+    ]},
+    "x": 10
+}
