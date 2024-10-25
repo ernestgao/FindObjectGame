@@ -39,7 +39,7 @@ and logical reasoning skills.
 I want to be reminded to save my found and hidden lists to file and have the option to do so or not.
 - As a user, when I start the application, I want to be given the option to load my lists from file.
 
-## Instructions for Grader
+## Instructions
 - You can generate the first required event related to displaying found objects on the list panel if you find an object,
 and double click to see bigger image.
 - You can generate the second required event related to showing the hidden objects by click on the button.
@@ -48,8 +48,7 @@ and also the objects on the panel.
 - You can save the state of my application by a pop-up menu when quit.
 - You can reload the state of my application by a pop-up menu before start.
 
-### Phase 4: Task 2
-Examples of EventLog:
+### Some Selected Eventlogs
 
 -Game started:  
 Wed Nov 30 22:24:32 PST 2022  
@@ -74,7 +73,7 @@ Avatar interacted
 Wed Nov 30 22:24:42 PST 2022  
 Hammer found.
 
-### Phase 4: Task 3
+### UML Diagram
 ![Alt text](UML Class Diagram.jpeg)
 UML class diagram reflection:  
 There are a lot of improvements I can see from my diagram, first of all, there aren't many coupling present in the code, however there can be some improvements in Avatar class,
